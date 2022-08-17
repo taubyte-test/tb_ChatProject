@@ -1,0 +1,16 @@
+id: QmTLqapULGiA5ZFWk2ckEjKq2B6kGVuFUF1frSAeeGjuGt
+description: Function call to get messages for the database
+tags: []
+trigger:
+    type: https
+    method: POST
+    paths:
+        - /getMessages
+domains:
+    - Chat_Domain
+includes:
+    - /functions/Get_Messages.go
+execution:
+    timeout: 10s
+    memory: 10GB
+    call: getMessages
