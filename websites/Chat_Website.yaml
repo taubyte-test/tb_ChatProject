@@ -9,7 +9,7 @@ source:
     paths:
         - /
     includes: []
-    branch: master
+    branch: main
     github:
         id: "526778347"
         fullname: taubyte-test/tb_website_Chat_Website
