@@ -8,6 +8,7 @@ trigger:
         - /saveMessage
 domains:
     - Chat_Domain
+    - Test_Domain
 includes:
     - /functions/Save_Messages.go
 execution:
