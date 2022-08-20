@@ -3,7 +3,6 @@ description: ""
 tags: []
 domains:
     - Chat_Domain
-    - Test_Domain
 libraries: []
 source:
     paths:
