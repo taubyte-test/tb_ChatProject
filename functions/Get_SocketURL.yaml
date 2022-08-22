@@ -5,7 +5,7 @@ trigger:
     type: https
     method: GET
     paths:
-        - /getsocketurl
+        - /ws/url
 domains:
     - Chat_Domain
     - Test_Domain

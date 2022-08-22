@@ -3,9 +3,9 @@ description: Function call to get messages for the database
 tags: []
 trigger:
     type: https
-    method: POST
+    method: GET
     paths:
-        - /getMessages
+        - /messages
 domains:
     - Chat_Domain
     - Test_Domain
