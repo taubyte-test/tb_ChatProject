@@ -5,7 +5,7 @@ trigger:
     type: https
     method: POST
     paths:
-        - /saveMessage
+        - /save
 domains:
     - Chat_Domain
     - Test_Domain
