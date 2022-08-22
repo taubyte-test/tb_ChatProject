@@ -1,5 +1,0 @@
-version: 1
-enviroment:
-    image: node
-    variables: null
-workflow: null
