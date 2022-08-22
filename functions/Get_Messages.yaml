@@ -8,6 +8,7 @@ trigger:
         - /getMessages
 domains:
     - Chat_Domain
+    - Test_Domain
 includes:
     - /functions/Get_Messages.go
 execution:

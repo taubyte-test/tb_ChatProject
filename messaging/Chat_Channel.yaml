@@ -1,0 +1,12 @@
+id: QmUpoaNH2UbvTCEhJLUi6hAmvogpwRAJ1Un8Ws6PVZM6mL
+description: ""
+tags: []
+local: false
+channel:
+    regex: false
+    match: chatChannel
+bridges:
+    mqtt:
+        enable: false
+    websocket:
+        enable: true
