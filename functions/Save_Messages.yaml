@@ -1,5 +1,5 @@
 id: QmYiQuR2K377j4ZUjxesY6a6oVvnLhzMMJsQSqmxrGZkyG
-description: Function to save chat messages
+description: Function to save chat messages.
 tags: []
 trigger:
     type: https
