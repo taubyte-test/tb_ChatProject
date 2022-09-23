@@ -1,5 +1,5 @@
 id: QmTLqapULGiA5ZFWk2ckEjKq2B6kGVuFUF1frSAeeGjuGt
-description: Function call to get messages for the database
+description: Function call to get messages for the database.
 tags: []
 trigger:
     type: https
