@@ -1,5 +1,5 @@
 id: QmNtG4SdhqrC3bEtz5euGZeEmaUhQrz6cSJ1LuEyu8Z5NM
-description: Function to get the web socket URL
+description: Function to get the web socket URL.
 tags: []
 trigger:
     type: https
