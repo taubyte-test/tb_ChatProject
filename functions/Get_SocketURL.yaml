@@ -13,5 +13,5 @@ includes:
     - /functions/Get_SocketURL.go
 execution:
     timeout: 10s
-    memory: 10MB
+    memory: 103MB
     call: getsocketurl
