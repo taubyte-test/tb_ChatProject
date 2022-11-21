@@ -3,7 +3,6 @@ description: Chat website
 tags: []
 domains:
     - Chat_Domain
-    - Test_Domain
 libraries: []
 source:
     paths:
@@ -11,5 +10,5 @@ source:
     includes: []
     branch: main
     github:
-        id: "526778347"
+        id: 526778347
         fullname: taubyte-test/tb_website_Chat_Website

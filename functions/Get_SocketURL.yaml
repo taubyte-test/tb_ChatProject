@@ -8,7 +8,6 @@ trigger:
         - /ws/url
 domains:
     - Chat_Domain
-    - Test_Domain
 includes:
     - /functions/Get_SocketURL.go
 execution:
