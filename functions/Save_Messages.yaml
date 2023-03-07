@@ -1,6 +1,7 @@
 id: QmYiQuR2K377j4ZUjxesY6a6oVvnLhzMMJsQSqmxrGZkyG
 description: Function to save chat messages.
 tags: []
+source: .
 trigger:
     type: https
     method: POST
@@ -8,8 +9,6 @@ trigger:
         - /message
 domains:
     - Chat_Domain
-includes:
-    - /functions/Save_Messages.go
 execution:
     timeout: 10s
     memory: 10GB

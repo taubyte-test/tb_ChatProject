@@ -1,7 +1,7 @@
 id: QmP6qBNyoLeMLiwk8uYZ8xoT4CnDspYntcY4oCkpVG1byt
 description: ""
 tags: []
-path: /chatdb
+match: Chat_Database
 access:
     network: all
 replicas:
