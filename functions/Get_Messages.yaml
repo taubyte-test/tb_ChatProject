@@ -1,6 +1,7 @@
 id: QmTLqapULGiA5ZFWk2ckEjKq2B6kGVuFUF1frSAeeGjuGt
 description: Function call to get messages for the database.
 tags: []
+source: .
 trigger:
     type: https
     method: GET
@@ -8,8 +9,6 @@ trigger:
         - /messages
 domains:
     - Chat_Domain
-includes:
-    - /functions/Get_Messages.go
 execution:
     timeout: 10s
     memory: 10GB

@@ -1,6 +1,7 @@
 id: QmNtG4SdhqrC3bEtz5euGZeEmaUhQrz6cSJ1LuEyu8Z5NM
 description: Function to get the web socket URL.
 tags: []
+source: .
 trigger:
     type: https
     method: GET
@@ -8,8 +9,6 @@ trigger:
         - /ws/url
 domains:
     - Chat_Domain
-includes:
-    - /functions/Get_SocketURL.go
 execution:
     timeout: 10s
     memory: 105MB

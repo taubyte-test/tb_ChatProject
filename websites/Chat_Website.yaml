@@ -3,7 +3,6 @@ description: Chat website
 tags: []
 domains:
     - Chat_Domain
-libraries: []
 source:
     paths:
         - /
